@@ -14,8 +14,7 @@ https://www.youtube.com/watch?v=oOyy-2XyT-c
 #### Documentation : 
 https://www.arabicrobotics.com/wp/
 
+
+
 Toturial : 
-
-![Code Project NAO-NET-Python-programs-to-NET ](https://www.codeproject.com/Tips/1002530/NAO-NET-Python-programs-to-NET)
-
 https://www.codeproject.com/Tips/1002530/NAO-NET-Python-programs-to-NET
